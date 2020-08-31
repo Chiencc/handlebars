@@ -17,6 +17,10 @@ Installing
 
 See our [installation documentation](https://handlebarsjs.com/installation/).
 
+```
+$npm install handlebars@4.0.14
+```
+
 Usage
 -----
 In general, the syntax of Handlebars.js templates is a superset
